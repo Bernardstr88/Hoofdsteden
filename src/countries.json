@@ -1,0 +1,2462 @@
+[
+  {
+    "code": "AFG",
+    "code2": "AF",
+    "codeNum": "004",
+    "name": "Afghanistan",
+    "capital": "Kabul",
+    "region": "Asia",
+    "lat": 33.0,
+    "lng": 65.0
+  },
+  {
+    "code": "ALB",
+    "code2": "AL",
+    "codeNum": "008",
+    "name": "Albania",
+    "capital": "Tirana",
+    "region": "Europe",
+    "lat": 41.0,
+    "lng": 20.0
+  },
+  {
+    "code": "DZA",
+    "code2": "DZ",
+    "codeNum": "012",
+    "name": "Algeria",
+    "capital": "Algiers",
+    "region": "Africa",
+    "lat": 28.0,
+    "lng": 3.0
+  },
+  {
+    "code": "ASM",
+    "code2": "AS",
+    "codeNum": "016",
+    "name": "American Samoa",
+    "capital": "Pago Pago",
+    "region": "Oceania",
+    "lat": -14.33333333,
+    "lng": -170.0
+  },
+  {
+    "code": "AND",
+    "code2": "AD",
+    "codeNum": "020",
+    "name": "Andorra",
+    "capital": "Andorra la Vella",
+    "region": "Europe",
+    "lat": 42.5,
+    "lng": 1.5
+  },
+  {
+    "code": "AGO",
+    "code2": "AO",
+    "codeNum": "024",
+    "name": "Angola",
+    "capital": "Luanda",
+    "region": "Africa",
+    "lat": -12.5,
+    "lng": 18.5
+  },
+  {
+    "code": "AIA",
+    "code2": "AI",
+    "codeNum": "660",
+    "name": "Anguilla",
+    "capital": "The Valley",
+    "region": "Americas",
+    "lat": 18.25,
+    "lng": -63.16666666
+  },
+  {
+    "code": "ATG",
+    "code2": "AG",
+    "codeNum": "028",
+    "name": "Antigua and Barbuda",
+    "capital": "Saint John's",
+    "region": "Americas",
+    "lat": 17.05,
+    "lng": -61.8
+  },
+  {
+    "code": "ARG",
+    "code2": "AR",
+    "codeNum": "032",
+    "name": "Argentina",
+    "capital": "Buenos Aires",
+    "region": "Americas",
+    "lat": -34.0,
+    "lng": -64.0
+  },
+  {
+    "code": "ARM",
+    "code2": "AM",
+    "codeNum": "051",
+    "name": "Armenia",
+    "capital": "Yerevan",
+    "region": "Asia",
+    "lat": 40.0,
+    "lng": 45.0
+  },
+  {
+    "code": "ABW",
+    "code2": "AW",
+    "codeNum": "533",
+    "name": "Aruba",
+    "capital": "Oranjestad",
+    "region": "Americas",
+    "lat": 12.5,
+    "lng": -69.96666666
+  },
+  {
+    "code": "AUS",
+    "code2": "AU",
+    "codeNum": "036",
+    "name": "Australia",
+    "capital": "Canberra",
+    "region": "Oceania",
+    "lat": -27.0,
+    "lng": 133.0
+  },
+  {
+    "code": "AUT",
+    "code2": "AT",
+    "codeNum": "040",
+    "name": "Austria",
+    "capital": "Vienna",
+    "region": "Europe",
+    "lat": 47.33333333,
+    "lng": 13.33333333
+  },
+  {
+    "code": "AZE",
+    "code2": "AZ",
+    "codeNum": "031",
+    "name": "Azerbaijan",
+    "capital": "Baku",
+    "region": "Asia",
+    "lat": 40.5,
+    "lng": 47.5
+  },
+  {
+    "code": "BHS",
+    "code2": "BS",
+    "codeNum": "044",
+    "name": "Bahamas",
+    "capital": "Nassau",
+    "region": "Americas",
+    "lat": 25.0343,
+    "lng": -77.3963
+  },
+  {
+    "code": "BHR",
+    "code2": "BH",
+    "codeNum": "048",
+    "name": "Bahrain",
+    "capital": "Manama",
+    "region": "Asia",
+    "lat": 26.0,
+    "lng": 50.55
+  },
+  {
+    "code": "BGD",
+    "code2": "BD",
+    "codeNum": "050",
+    "name": "Bangladesh",
+    "capital": "Dhaka",
+    "region": "Asia",
+    "lat": 24.0,
+    "lng": 90.0
+  },
+  {
+    "code": "BRB",
+    "code2": "BB",
+    "codeNum": "052",
+    "name": "Barbados",
+    "capital": "Bridgetown",
+    "region": "Americas",
+    "lat": 13.16666666,
+    "lng": -59.53333333
+  },
+  {
+    "code": "BLR",
+    "code2": "BY",
+    "codeNum": "112",
+    "name": "Belarus",
+    "capital": "Minsk",
+    "region": "Europe",
+    "lat": 53.0,
+    "lng": 28.0
+  },
+  {
+    "code": "BEL",
+    "code2": "BE",
+    "codeNum": "056",
+    "name": "Belgium",
+    "capital": "Brussels",
+    "region": "Europe",
+    "lat": 50.83333333,
+    "lng": 4.0
+  },
+  {
+    "code": "BLZ",
+    "code2": "BZ",
+    "codeNum": "084",
+    "name": "Belize",
+    "capital": "Belmopan",
+    "region": "Americas",
+    "lat": 17.25,
+    "lng": -88.75
+  },
+  {
+    "code": "BEN",
+    "code2": "BJ",
+    "codeNum": "204",
+    "name": "Benin",
+    "capital": "Porto-Novo",
+    "region": "Africa",
+    "lat": 9.5,
+    "lng": 2.25
+  },
+  {
+    "code": "BMU",
+    "code2": "BM",
+    "codeNum": "060",
+    "name": "Bermuda",
+    "capital": "Hamilton",
+    "region": "Americas",
+    "lat": 32.33333333,
+    "lng": -64.75
+  },
+  {
+    "code": "BTN",
+    "code2": "BT",
+    "codeNum": "064",
+    "name": "Bhutan",
+    "capital": "Thimphu",
+    "region": "Asia",
+    "lat": 27.5,
+    "lng": 90.5
+  },
+  {
+    "code": "BOL",
+    "code2": "BO",
+    "codeNum": "068",
+    "name": "Bolivia",
+    "capital": "Sucre",
+    "region": "Americas",
+    "lat": -17.0,
+    "lng": -65.0
+  },
+  {
+    "code": "BIH",
+    "code2": "BA",
+    "codeNum": "070",
+    "name": "Bosnia and Herzegovina",
+    "capital": "Sarajevo",
+    "region": "Europe",
+    "lat": 44.0,
+    "lng": 18.0
+  },
+  {
+    "code": "BWA",
+    "code2": "BW",
+    "codeNum": "072",
+    "name": "Botswana",
+    "capital": "Gaborone",
+    "region": "Africa",
+    "lat": -22.0,
+    "lng": 24.0
+  },
+  {
+    "code": "BRA",
+    "code2": "BR",
+    "codeNum": "076",
+    "name": "Brazil",
+    "capital": "Brasília",
+    "region": "Americas",
+    "lat": -10.0,
+    "lng": -55.0
+  },
+  {
+    "code": "IOT",
+    "code2": "IO",
+    "codeNum": "086",
+    "name": "British Indian Ocean Territory",
+    "capital": "Diego Garcia",
+    "region": "Africa",
+    "lat": -6.0,
+    "lng": 71.5
+  },
+  {
+    "code": "VGB",
+    "code2": "VG",
+    "codeNum": "092",
+    "name": "British Virgin Islands",
+    "capital": "Road Town",
+    "region": "Americas",
+    "lat": 18.431383,
+    "lng": -64.62305
+  },
+  {
+    "code": "BRN",
+    "code2": "BN",
+    "codeNum": "096",
+    "name": "Brunei",
+    "capital": "Bandar Seri Begawan",
+    "region": "Asia",
+    "lat": 4.5,
+    "lng": 114.66666666
+  },
+  {
+    "code": "BGR",
+    "code2": "BG",
+    "codeNum": "100",
+    "name": "Bulgaria",
+    "capital": "Sofia",
+    "region": "Europe",
+    "lat": 43.0,
+    "lng": 25.0
+  },
+  {
+    "code": "BFA",
+    "code2": "BF",
+    "codeNum": "854",
+    "name": "Burkina Faso",
+    "capital": "Ouagadougou",
+    "region": "Africa",
+    "lat": 13.0,
+    "lng": -2.0
+  },
+  {
+    "code": "BDI",
+    "code2": "BI",
+    "codeNum": "108",
+    "name": "Burundi",
+    "capital": "Gitega",
+    "region": "Africa",
+    "lat": -3.5,
+    "lng": 30.0
+  },
+  {
+    "code": "KHM",
+    "code2": "KH",
+    "codeNum": "116",
+    "name": "Cambodia",
+    "capital": "Phnom Penh",
+    "region": "Asia",
+    "lat": 13.0,
+    "lng": 105.0
+  },
+  {
+    "code": "CMR",
+    "code2": "CM",
+    "codeNum": "120",
+    "name": "Cameroon",
+    "capital": "Yaoundé",
+    "region": "Africa",
+    "lat": 6.0,
+    "lng": 12.0
+  },
+  {
+    "code": "CAN",
+    "code2": "CA",
+    "codeNum": "124",
+    "name": "Canada",
+    "capital": "Ottawa",
+    "region": "Americas",
+    "lat": 60.0,
+    "lng": -95.0
+  },
+  {
+    "code": "CPV",
+    "code2": "CV",
+    "codeNum": "132",
+    "name": "Cape Verde",
+    "capital": "Praia",
+    "region": "Africa",
+    "lat": 16.5388,
+    "lng": -23.0418
+  },
+  {
+    "code": "BES",
+    "code2": "BQ",
+    "codeNum": "535",
+    "name": "Caribbean Netherlands",
+    "capital": "Kralendijk",
+    "region": "Americas",
+    "lat": 12.18,
+    "lng": -68.25
+  },
+  {
+    "code": "CYM",
+    "code2": "KY",
+    "codeNum": "136",
+    "name": "Cayman Islands",
+    "capital": "George Town",
+    "region": "Americas",
+    "lat": 19.3133,
+    "lng": -81.2546
+  },
+  {
+    "code": "CAF",
+    "code2": "CF",
+    "codeNum": "140",
+    "name": "Central African Republic",
+    "capital": "Bangui",
+    "region": "Africa",
+    "lat": 7.0,
+    "lng": 21.0
+  },
+  {
+    "code": "TCD",
+    "code2": "TD",
+    "codeNum": "148",
+    "name": "Chad",
+    "capital": "N'Djamena",
+    "region": "Africa",
+    "lat": 15.0,
+    "lng": 19.0
+  },
+  {
+    "code": "CHL",
+    "code2": "CL",
+    "codeNum": "152",
+    "name": "Chile",
+    "capital": "Santiago",
+    "region": "Americas",
+    "lat": -30.0,
+    "lng": -71.0
+  },
+  {
+    "code": "CHN",
+    "code2": "CN",
+    "codeNum": "156",
+    "name": "China",
+    "capital": "Beijing",
+    "region": "Asia",
+    "lat": 35.0,
+    "lng": 105.0
+  },
+  {
+    "code": "CXR",
+    "code2": "CX",
+    "codeNum": "162",
+    "name": "Christmas Island",
+    "capital": "Flying Fish Cove",
+    "region": "Oceania",
+    "lat": -10.5,
+    "lng": 105.66666666
+  },
+  {
+    "code": "CCK",
+    "code2": "CC",
+    "codeNum": "166",
+    "name": "Cocos (Keeling) Islands",
+    "capital": "West Island",
+    "region": "Oceania",
+    "lat": -12.1642,
+    "lng": 96.871
+  },
+  {
+    "code": "COL",
+    "code2": "CO",
+    "codeNum": "170",
+    "name": "Colombia",
+    "capital": "Bogotá",
+    "region": "Americas",
+    "lat": 4.0,
+    "lng": -72.0
+  },
+  {
+    "code": "COM",
+    "code2": "KM",
+    "codeNum": "174",
+    "name": "Comoros",
+    "capital": "Moroni",
+    "region": "Africa",
+    "lat": -12.16666666,
+    "lng": 44.25
+  },
+  {
+    "code": "COK",
+    "code2": "CK",
+    "codeNum": "184",
+    "name": "Cook Islands",
+    "capital": "Avarua",
+    "region": "Oceania",
+    "lat": -21.23333333,
+    "lng": -159.76666666
+  },
+  {
+    "code": "CRI",
+    "code2": "CR",
+    "codeNum": "188",
+    "name": "Costa Rica",
+    "capital": "San José",
+    "region": "Americas",
+    "lat": 10.0,
+    "lng": -84.0
+  },
+  {
+    "code": "HRV",
+    "code2": "HR",
+    "codeNum": "191",
+    "name": "Croatia",
+    "capital": "Zagreb",
+    "region": "Europe",
+    "lat": 45.16666666,
+    "lng": 15.5
+  },
+  {
+    "code": "CUB",
+    "code2": "CU",
+    "codeNum": "192",
+    "name": "Cuba",
+    "capital": "Havana",
+    "region": "Americas",
+    "lat": 21.5,
+    "lng": -80.0
+  },
+  {
+    "code": "CUW",
+    "code2": "CW",
+    "codeNum": "531",
+    "name": "Curaçao",
+    "capital": "Willemstad",
+    "region": "Americas",
+    "lat": 12.116667,
+    "lng": -68.933333
+  },
+  {
+    "code": "CYP",
+    "code2": "CY",
+    "codeNum": "196",
+    "name": "Cyprus",
+    "capital": "Nicosia",
+    "region": "Europe",
+    "lat": 35.0,
+    "lng": 33.0
+  },
+  {
+    "code": "CZE",
+    "code2": "CZ",
+    "codeNum": "203",
+    "name": "Czechia",
+    "capital": "Prague",
+    "region": "Europe",
+    "lat": 49.75,
+    "lng": 15.5
+  },
+  {
+    "code": "COD",
+    "code2": "CD",
+    "codeNum": "180",
+    "name": "DR Congo",
+    "capital": "Kinshasa",
+    "region": "Africa",
+    "lat": 0.0,
+    "lng": 25.0
+  },
+  {
+    "code": "DNK",
+    "code2": "DK",
+    "codeNum": "208",
+    "name": "Denmark",
+    "capital": "Copenhagen",
+    "region": "Europe",
+    "lat": 56.0,
+    "lng": 10.0
+  },
+  {
+    "code": "DJI",
+    "code2": "DJ",
+    "codeNum": "262",
+    "name": "Djibouti",
+    "capital": "Djibouti",
+    "region": "Africa",
+    "lat": 11.5,
+    "lng": 43.0
+  },
+  {
+    "code": "DMA",
+    "code2": "DM",
+    "codeNum": "212",
+    "name": "Dominica",
+    "capital": "Roseau",
+    "region": "Americas",
+    "lat": 15.41666666,
+    "lng": -61.33333333
+  },
+  {
+    "code": "DOM",
+    "code2": "DO",
+    "codeNum": "214",
+    "name": "Dominican Republic",
+    "capital": "Santo Domingo",
+    "region": "Americas",
+    "lat": 19.0,
+    "lng": -70.66666666
+  },
+  {
+    "code": "ECU",
+    "code2": "EC",
+    "codeNum": "218",
+    "name": "Ecuador",
+    "capital": "Quito",
+    "region": "Americas",
+    "lat": -2.0,
+    "lng": -77.5
+  },
+  {
+    "code": "EGY",
+    "code2": "EG",
+    "codeNum": "818",
+    "name": "Egypt",
+    "capital": "Cairo",
+    "region": "Africa",
+    "lat": 27.0,
+    "lng": 30.0
+  },
+  {
+    "code": "SLV",
+    "code2": "SV",
+    "codeNum": "222",
+    "name": "El Salvador",
+    "capital": "San Salvador",
+    "region": "Americas",
+    "lat": 13.83333333,
+    "lng": -88.91666666
+  },
+  {
+    "code": "GNQ",
+    "code2": "GQ",
+    "codeNum": "226",
+    "name": "Equatorial Guinea",
+    "capital": "Ciudad de la Paz",
+    "region": "Africa",
+    "lat": 2.0,
+    "lng": 10.0
+  },
+  {
+    "code": "ERI",
+    "code2": "ER",
+    "codeNum": "232",
+    "name": "Eritrea",
+    "capital": "Asmara",
+    "region": "Africa",
+    "lat": 15.0,
+    "lng": 39.0
+  },
+  {
+    "code": "EST",
+    "code2": "EE",
+    "codeNum": "233",
+    "name": "Estonia",
+    "capital": "Tallinn",
+    "region": "Europe",
+    "lat": 59.0,
+    "lng": 26.0
+  },
+  {
+    "code": "SWZ",
+    "code2": "SZ",
+    "codeNum": "748",
+    "name": "Eswatini",
+    "capital": "Mbabane",
+    "region": "Africa",
+    "lat": -26.5,
+    "lng": 31.5
+  },
+  {
+    "code": "ETH",
+    "code2": "ET",
+    "codeNum": "231",
+    "name": "Ethiopia",
+    "capital": "Addis Ababa",
+    "region": "Africa",
+    "lat": 8.0,
+    "lng": 38.0
+  },
+  {
+    "code": "FLK",
+    "code2": "FK",
+    "codeNum": "238",
+    "name": "Falkland Islands",
+    "capital": "Stanley",
+    "region": "Americas",
+    "lat": -51.75,
+    "lng": -59.0
+  },
+  {
+    "code": "FRO",
+    "code2": "FO",
+    "codeNum": "234",
+    "name": "Faroe Islands",
+    "capital": "Tórshavn",
+    "region": "Europe",
+    "lat": 62.0,
+    "lng": -7.0
+  },
+  {
+    "code": "FJI",
+    "code2": "FJ",
+    "codeNum": "242",
+    "name": "Fiji",
+    "capital": "Suva",
+    "region": "Oceania",
+    "lat": -17.7134,
+    "lng": 178.065
+  },
+  {
+    "code": "FIN",
+    "code2": "FI",
+    "codeNum": "246",
+    "name": "Finland",
+    "capital": "Helsinki",
+    "region": "Europe",
+    "lat": 64.0,
+    "lng": 26.0
+  },
+  {
+    "code": "FRA",
+    "code2": "FR",
+    "codeNum": "250",
+    "name": "France",
+    "capital": "Paris",
+    "region": "Europe",
+    "lat": 46.0,
+    "lng": 2.0
+  },
+  {
+    "code": "GUF",
+    "code2": "GF",
+    "codeNum": "254",
+    "name": "French Guiana",
+    "capital": "Cayenne",
+    "region": "Americas",
+    "lat": 4.0,
+    "lng": -53.0
+  },
+  {
+    "code": "PYF",
+    "code2": "PF",
+    "codeNum": "258",
+    "name": "French Polynesia",
+    "capital": "Papeetē",
+    "region": "Oceania",
+    "lat": -17.6797,
+    "lng": -149.4068
+  },
+  {
+    "code": "ATF",
+    "code2": "TF",
+    "codeNum": "260",
+    "name": "French Southern and Antarctic Lands",
+    "capital": "Port-aux-Français",
+    "region": "Antarctic",
+    "lat": -49.25,
+    "lng": 69.167
+  },
+  {
+    "code": "GAB",
+    "code2": "GA",
+    "codeNum": "266",
+    "name": "Gabon",
+    "capital": "Libreville",
+    "region": "Africa",
+    "lat": -1.0,
+    "lng": 11.75
+  },
+  {
+    "code": "GMB",
+    "code2": "GM",
+    "codeNum": "270",
+    "name": "Gambia",
+    "capital": "Banjul",
+    "region": "Africa",
+    "lat": 13.46666666,
+    "lng": -16.56666666
+  },
+  {
+    "code": "GEO",
+    "code2": "GE",
+    "codeNum": "268",
+    "name": "Georgia",
+    "capital": "Tbilisi",
+    "region": "Asia",
+    "lat": 42.0,
+    "lng": 43.5
+  },
+  {
+    "code": "DEU",
+    "code2": "DE",
+    "codeNum": "276",
+    "name": "Germany",
+    "capital": "Berlin",
+    "region": "Europe",
+    "lat": 51.0,
+    "lng": 9.0
+  },
+  {
+    "code": "GHA",
+    "code2": "GH",
+    "codeNum": "288",
+    "name": "Ghana",
+    "capital": "Accra",
+    "region": "Africa",
+    "lat": 8.0,
+    "lng": -2.0
+  },
+  {
+    "code": "GIB",
+    "code2": "GI",
+    "codeNum": "292",
+    "name": "Gibraltar",
+    "capital": "Gibraltar",
+    "region": "Europe",
+    "lat": 36.13333333,
+    "lng": -5.35
+  },
+  {
+    "code": "GRC",
+    "code2": "GR",
+    "codeNum": "300",
+    "name": "Greece",
+    "capital": "Athens",
+    "region": "Europe",
+    "lat": 39.0,
+    "lng": 22.0
+  },
+  {
+    "code": "GRL",
+    "code2": "GL",
+    "codeNum": "304",
+    "name": "Greenland",
+    "capital": "Nuuk",
+    "region": "Americas",
+    "lat": 72.0,
+    "lng": -40.0
+  },
+  {
+    "code": "GRD",
+    "code2": "GD",
+    "codeNum": "308",
+    "name": "Grenada",
+    "capital": "St. George's",
+    "region": "Americas",
+    "lat": 12.11666666,
+    "lng": -61.66666666
+  },
+  {
+    "code": "GLP",
+    "code2": "GP",
+    "codeNum": "312",
+    "name": "Guadeloupe",
+    "capital": "Basse-Terre",
+    "region": "Americas",
+    "lat": 16.25,
+    "lng": -61.583333
+  },
+  {
+    "code": "GUM",
+    "code2": "GU",
+    "codeNum": "316",
+    "name": "Guam",
+    "capital": "Hagåtña",
+    "region": "Oceania",
+    "lat": 13.46666666,
+    "lng": 144.78333333
+  },
+  {
+    "code": "GTM",
+    "code2": "GT",
+    "codeNum": "320",
+    "name": "Guatemala",
+    "capital": "Guatemala City",
+    "region": "Americas",
+    "lat": 15.5,
+    "lng": -90.25
+  },
+  {
+    "code": "GGY",
+    "code2": "GG",
+    "codeNum": "831",
+    "name": "Guernsey",
+    "capital": "St. Peter Port",
+    "region": "Europe",
+    "lat": 49.46666666,
+    "lng": -2.58333333
+  },
+  {
+    "code": "GIN",
+    "code2": "GN",
+    "codeNum": "324",
+    "name": "Guinea",
+    "capital": "Conakry",
+    "region": "Africa",
+    "lat": 11.0,
+    "lng": -10.0
+  },
+  {
+    "code": "GNB",
+    "code2": "GW",
+    "codeNum": "624",
+    "name": "Guinea-Bissau",
+    "capital": "Bissau",
+    "region": "Africa",
+    "lat": 12.0,
+    "lng": -15.0
+  },
+  {
+    "code": "GUY",
+    "code2": "GY",
+    "codeNum": "328",
+    "name": "Guyana",
+    "capital": "Georgetown",
+    "region": "Americas",
+    "lat": 5.0,
+    "lng": -59.0
+  },
+  {
+    "code": "HTI",
+    "code2": "HT",
+    "codeNum": "332",
+    "name": "Haiti",
+    "capital": "Port-au-Prince",
+    "region": "Americas",
+    "lat": 19.0,
+    "lng": -72.41666666
+  },
+  {
+    "code": "HND",
+    "code2": "HN",
+    "codeNum": "340",
+    "name": "Honduras",
+    "capital": "Tegucigalpa",
+    "region": "Americas",
+    "lat": 15.0,
+    "lng": -86.5
+  },
+  {
+    "code": "HKG",
+    "code2": "HK",
+    "codeNum": "344",
+    "name": "Hong Kong",
+    "capital": "City of Victoria",
+    "region": "Asia",
+    "lat": 22.267,
+    "lng": 114.188
+  },
+  {
+    "code": "HUN",
+    "code2": "HU",
+    "codeNum": "348",
+    "name": "Hungary",
+    "capital": "Budapest",
+    "region": "Europe",
+    "lat": 47.0,
+    "lng": 20.0
+  },
+  {
+    "code": "ISL",
+    "code2": "IS",
+    "codeNum": "352",
+    "name": "Iceland",
+    "capital": "Reykjavik",
+    "region": "Europe",
+    "lat": 65.0,
+    "lng": -18.0
+  },
+  {
+    "code": "IND",
+    "code2": "IN",
+    "codeNum": "356",
+    "name": "India",
+    "capital": "New Delhi",
+    "region": "Asia",
+    "lat": 20.0,
+    "lng": 77.0
+  },
+  {
+    "code": "IDN",
+    "code2": "ID",
+    "codeNum": "360",
+    "name": "Indonesia",
+    "capital": "Jakarta",
+    "region": "Asia",
+    "lat": -5.0,
+    "lng": 120.0
+  },
+  {
+    "code": "IRN",
+    "code2": "IR",
+    "codeNum": "364",
+    "name": "Iran",
+    "capital": "Tehran",
+    "region": "Asia",
+    "lat": 32.0,
+    "lng": 53.0
+  },
+  {
+    "code": "IRQ",
+    "code2": "IQ",
+    "codeNum": "368",
+    "name": "Iraq",
+    "capital": "Baghdad",
+    "region": "Asia",
+    "lat": 33.0,
+    "lng": 44.0
+  },
+  {
+    "code": "IRL",
+    "code2": "IE",
+    "codeNum": "372",
+    "name": "Ireland",
+    "capital": "Dublin",
+    "region": "Europe",
+    "lat": 53.0,
+    "lng": -8.0
+  },
+  {
+    "code": "IMN",
+    "code2": "IM",
+    "codeNum": "833",
+    "name": "Isle of Man",
+    "capital": "Douglas",
+    "region": "Europe",
+    "lat": 54.25,
+    "lng": -4.5
+  },
+  {
+    "code": "ISR",
+    "code2": "IL",
+    "codeNum": "376",
+    "name": "Israel",
+    "capital": "Jerusalem",
+    "region": "Asia",
+    "lat": 31.47,
+    "lng": 35.13
+  },
+  {
+    "code": "ITA",
+    "code2": "IT",
+    "codeNum": "380",
+    "name": "Italy",
+    "capital": "Rome",
+    "region": "Europe",
+    "lat": 42.83333333,
+    "lng": 12.83333333
+  },
+  {
+    "code": "CIV",
+    "code2": "CI",
+    "codeNum": "384",
+    "name": "Ivory Coast",
+    "capital": "Yamoussoukro",
+    "region": "Africa",
+    "lat": 8.0,
+    "lng": -5.0
+  },
+  {
+    "code": "JAM",
+    "code2": "JM",
+    "codeNum": "388",
+    "name": "Jamaica",
+    "capital": "Kingston",
+    "region": "Americas",
+    "lat": 18.25,
+    "lng": -77.5
+  },
+  {
+    "code": "JPN",
+    "code2": "JP",
+    "codeNum": "392",
+    "name": "Japan",
+    "capital": "Tokyo",
+    "region": "Asia",
+    "lat": 36.0,
+    "lng": 138.0
+  },
+  {
+    "code": "JEY",
+    "code2": "JE",
+    "codeNum": "832",
+    "name": "Jersey",
+    "capital": "Saint Helier",
+    "region": "Europe",
+    "lat": 49.25,
+    "lng": -2.16666666
+  },
+  {
+    "code": "JOR",
+    "code2": "JO",
+    "codeNum": "400",
+    "name": "Jordan",
+    "capital": "Amman",
+    "region": "Asia",
+    "lat": 31.0,
+    "lng": 36.0
+  },
+  {
+    "code": "KAZ",
+    "code2": "KZ",
+    "codeNum": "398",
+    "name": "Kazakhstan",
+    "capital": "Astana",
+    "region": "Asia",
+    "lat": 48.0196,
+    "lng": 66.9237
+  },
+  {
+    "code": "KEN",
+    "code2": "KE",
+    "codeNum": "404",
+    "name": "Kenya",
+    "capital": "Nairobi",
+    "region": "Africa",
+    "lat": 1.0,
+    "lng": 38.0
+  },
+  {
+    "code": "KIR",
+    "code2": "KI",
+    "codeNum": "296",
+    "name": "Kiribati",
+    "capital": "South Tarawa",
+    "region": "Oceania",
+    "lat": 1.41666666,
+    "lng": 173.0
+  },
+  {
+    "code": "UNK",
+    "code2": "XK",
+    "codeNum": "",
+    "name": "Kosovo",
+    "capital": "Pristina",
+    "region": "Europe",
+    "lat": 42.666667,
+    "lng": 21.166667
+  },
+  {
+    "code": "KWT",
+    "code2": "KW",
+    "codeNum": "414",
+    "name": "Kuwait",
+    "capital": "Kuwait City",
+    "region": "Asia",
+    "lat": 29.5,
+    "lng": 45.75
+  },
+  {
+    "code": "KGZ",
+    "code2": "KG",
+    "codeNum": "417",
+    "name": "Kyrgyzstan",
+    "capital": "Bishkek",
+    "region": "Asia",
+    "lat": 41.0,
+    "lng": 75.0
+  },
+  {
+    "code": "LAO",
+    "code2": "LA",
+    "codeNum": "418",
+    "name": "Laos",
+    "capital": "Vientiane",
+    "region": "Asia",
+    "lat": 18.0,
+    "lng": 105.0
+  },
+  {
+    "code": "LVA",
+    "code2": "LV",
+    "codeNum": "428",
+    "name": "Latvia",
+    "capital": "Riga",
+    "region": "Europe",
+    "lat": 57.0,
+    "lng": 25.0
+  },
+  {
+    "code": "LBN",
+    "code2": "LB",
+    "codeNum": "422",
+    "name": "Lebanon",
+    "capital": "Beirut",
+    "region": "Asia",
+    "lat": 33.83333333,
+    "lng": 35.83333333
+  },
+  {
+    "code": "LSO",
+    "code2": "LS",
+    "codeNum": "426",
+    "name": "Lesotho",
+    "capital": "Maseru",
+    "region": "Africa",
+    "lat": -29.5,
+    "lng": 28.5
+  },
+  {
+    "code": "LBR",
+    "code2": "LR",
+    "codeNum": "430",
+    "name": "Liberia",
+    "capital": "Monrovia",
+    "region": "Africa",
+    "lat": 6.5,
+    "lng": -9.5
+  },
+  {
+    "code": "LBY",
+    "code2": "LY",
+    "codeNum": "434",
+    "name": "Libya",
+    "capital": "Tripoli",
+    "region": "Africa",
+    "lat": 25.0,
+    "lng": 17.0
+  },
+  {
+    "code": "LIE",
+    "code2": "LI",
+    "codeNum": "438",
+    "name": "Liechtenstein",
+    "capital": "Vaduz",
+    "region": "Europe",
+    "lat": 47.26666666,
+    "lng": 9.53333333
+  },
+  {
+    "code": "LTU",
+    "code2": "LT",
+    "codeNum": "440",
+    "name": "Lithuania",
+    "capital": "Vilnius",
+    "region": "Europe",
+    "lat": 56.0,
+    "lng": 24.0
+  },
+  {
+    "code": "LUX",
+    "code2": "LU",
+    "codeNum": "442",
+    "name": "Luxembourg",
+    "capital": "Luxembourg",
+    "region": "Europe",
+    "lat": 49.75,
+    "lng": 6.16666666
+  },
+  {
+    "code": "MDG",
+    "code2": "MG",
+    "codeNum": "450",
+    "name": "Madagascar",
+    "capital": "Antananarivo",
+    "region": "Africa",
+    "lat": -20.0,
+    "lng": 47.0
+  },
+  {
+    "code": "MWI",
+    "code2": "MW",
+    "codeNum": "454",
+    "name": "Malawi",
+    "capital": "Lilongwe",
+    "region": "Africa",
+    "lat": -13.5,
+    "lng": 34.0
+  },
+  {
+    "code": "MYS",
+    "code2": "MY",
+    "codeNum": "458",
+    "name": "Malaysia",
+    "capital": "Kuala Lumpur",
+    "region": "Asia",
+    "lat": 2.5,
+    "lng": 112.5
+  },
+  {
+    "code": "MDV",
+    "code2": "MV",
+    "codeNum": "462",
+    "name": "Maldives",
+    "capital": "Malé",
+    "region": "Asia",
+    "lat": 3.25,
+    "lng": 73.0
+  },
+  {
+    "code": "MLI",
+    "code2": "ML",
+    "codeNum": "466",
+    "name": "Mali",
+    "capital": "Bamako",
+    "region": "Africa",
+    "lat": 17.0,
+    "lng": -4.0
+  },
+  {
+    "code": "MLT",
+    "code2": "MT",
+    "codeNum": "470",
+    "name": "Malta",
+    "capital": "Valletta",
+    "region": "Europe",
+    "lat": 35.9375,
+    "lng": 14.3754
+  },
+  {
+    "code": "MHL",
+    "code2": "MH",
+    "codeNum": "584",
+    "name": "Marshall Islands",
+    "capital": "Majuro",
+    "region": "Oceania",
+    "lat": 9.0,
+    "lng": 168.0
+  },
+  {
+    "code": "MTQ",
+    "code2": "MQ",
+    "codeNum": "474",
+    "name": "Martinique",
+    "capital": "Fort-de-France",
+    "region": "Americas",
+    "lat": 14.666667,
+    "lng": -61.0
+  },
+  {
+    "code": "MRT",
+    "code2": "MR",
+    "codeNum": "478",
+    "name": "Mauritania",
+    "capital": "Nouakchott",
+    "region": "Africa",
+    "lat": 20.0,
+    "lng": -12.0
+  },
+  {
+    "code": "MUS",
+    "code2": "MU",
+    "codeNum": "480",
+    "name": "Mauritius",
+    "capital": "Port Louis",
+    "region": "Africa",
+    "lat": -20.28333333,
+    "lng": 57.55
+  },
+  {
+    "code": "MYT",
+    "code2": "YT",
+    "codeNum": "175",
+    "name": "Mayotte",
+    "capital": "Mamoudzou",
+    "region": "Africa",
+    "lat": -12.83333333,
+    "lng": 45.16666666
+  },
+  {
+    "code": "MEX",
+    "code2": "MX",
+    "codeNum": "484",
+    "name": "Mexico",
+    "capital": "Mexico City",
+    "region": "Americas",
+    "lat": 23.0,
+    "lng": -102.0
+  },
+  {
+    "code": "FSM",
+    "code2": "FM",
+    "codeNum": "583",
+    "name": "Micronesia",
+    "capital": "Palikir",
+    "region": "Oceania",
+    "lat": 6.91666666,
+    "lng": 158.25
+  },
+  {
+    "code": "MDA",
+    "code2": "MD",
+    "codeNum": "498",
+    "name": "Moldova",
+    "capital": "Chișinău",
+    "region": "Europe",
+    "lat": 47.0,
+    "lng": 29.0
+  },
+  {
+    "code": "MCO",
+    "code2": "MC",
+    "codeNum": "492",
+    "name": "Monaco",
+    "capital": "Monaco",
+    "region": "Europe",
+    "lat": 43.73333333,
+    "lng": 7.4
+  },
+  {
+    "code": "MNG",
+    "code2": "MN",
+    "codeNum": "496",
+    "name": "Mongolia",
+    "capital": "Ulan Bator",
+    "region": "Asia",
+    "lat": 46.0,
+    "lng": 105.0
+  },
+  {
+    "code": "MNE",
+    "code2": "ME",
+    "codeNum": "499",
+    "name": "Montenegro",
+    "capital": "Podgorica",
+    "region": "Europe",
+    "lat": 42.5,
+    "lng": 19.3
+  },
+  {
+    "code": "MSR",
+    "code2": "MS",
+    "codeNum": "500",
+    "name": "Montserrat",
+    "capital": "Plymouth",
+    "region": "Americas",
+    "lat": 16.75,
+    "lng": -62.2
+  },
+  {
+    "code": "MAR",
+    "code2": "MA",
+    "codeNum": "504",
+    "name": "Morocco",
+    "capital": "Rabat",
+    "region": "Africa",
+    "lat": 32.0,
+    "lng": -5.0
+  },
+  {
+    "code": "MOZ",
+    "code2": "MZ",
+    "codeNum": "508",
+    "name": "Mozambique",
+    "capital": "Maputo",
+    "region": "Africa",
+    "lat": -18.25,
+    "lng": 35.0
+  },
+  {
+    "code": "MMR",
+    "code2": "MM",
+    "codeNum": "104",
+    "name": "Myanmar",
+    "capital": "Naypyidaw",
+    "region": "Asia",
+    "lat": 22.0,
+    "lng": 98.0
+  },
+  {
+    "code": "NAM",
+    "code2": "NA",
+    "codeNum": "516",
+    "name": "Namibia",
+    "capital": "Windhoek",
+    "region": "Africa",
+    "lat": -22.0,
+    "lng": 17.0
+  },
+  {
+    "code": "NRU",
+    "code2": "NR",
+    "codeNum": "520",
+    "name": "Nauru",
+    "capital": "Yaren",
+    "region": "Oceania",
+    "lat": -0.53333333,
+    "lng": 166.91666666
+  },
+  {
+    "code": "NPL",
+    "code2": "NP",
+    "codeNum": "524",
+    "name": "Nepal",
+    "capital": "Kathmandu",
+    "region": "Asia",
+    "lat": 28.0,
+    "lng": 84.0
+  },
+  {
+    "code": "NLD",
+    "code2": "NL",
+    "codeNum": "528",
+    "name": "Netherlands",
+    "capital": "Amsterdam",
+    "region": "Europe",
+    "lat": 52.5,
+    "lng": 5.75
+  },
+  {
+    "code": "NCL",
+    "code2": "NC",
+    "codeNum": "540",
+    "name": "New Caledonia",
+    "capital": "Nouméa",
+    "region": "Oceania",
+    "lat": -21.5,
+    "lng": 165.5
+  },
+  {
+    "code": "NZL",
+    "code2": "NZ",
+    "codeNum": "554",
+    "name": "New Zealand",
+    "capital": "Wellington",
+    "region": "Oceania",
+    "lat": -41.0,
+    "lng": 174.0
+  },
+  {
+    "code": "NIC",
+    "code2": "NI",
+    "codeNum": "558",
+    "name": "Nicaragua",
+    "capital": "Managua",
+    "region": "Americas",
+    "lat": 13.0,
+    "lng": -85.0
+  },
+  {
+    "code": "NER",
+    "code2": "NE",
+    "codeNum": "562",
+    "name": "Niger",
+    "capital": "Niamey",
+    "region": "Africa",
+    "lat": 16.0,
+    "lng": 8.0
+  },
+  {
+    "code": "NGA",
+    "code2": "NG",
+    "codeNum": "566",
+    "name": "Nigeria",
+    "capital": "Abuja",
+    "region": "Africa",
+    "lat": 10.0,
+    "lng": 8.0
+  },
+  {
+    "code": "NIU",
+    "code2": "NU",
+    "codeNum": "570",
+    "name": "Niue",
+    "capital": "Alofi",
+    "region": "Oceania",
+    "lat": -19.03333333,
+    "lng": -169.86666666
+  },
+  {
+    "code": "NFK",
+    "code2": "NF",
+    "codeNum": "574",
+    "name": "Norfolk Island",
+    "capital": "Kingston",
+    "region": "Oceania",
+    "lat": -29.03333333,
+    "lng": 167.95
+  },
+  {
+    "code": "PRK",
+    "code2": "KP",
+    "codeNum": "408",
+    "name": "North Korea",
+    "capital": "Pyongyang",
+    "region": "Asia",
+    "lat": 40.0,
+    "lng": 127.0
+  },
+  {
+    "code": "MKD",
+    "code2": "MK",
+    "codeNum": "807",
+    "name": "North Macedonia",
+    "capital": "Skopje",
+    "region": "Europe",
+    "lat": 41.83333333,
+    "lng": 22.0
+  },
+  {
+    "code": "MNP",
+    "code2": "MP",
+    "codeNum": "580",
+    "name": "Northern Mariana Islands",
+    "capital": "Saipan",
+    "region": "Oceania",
+    "lat": 15.2,
+    "lng": 145.75
+  },
+  {
+    "code": "NOR",
+    "code2": "NO",
+    "codeNum": "578",
+    "name": "Norway",
+    "capital": "Oslo",
+    "region": "Europe",
+    "lat": 62.0,
+    "lng": 10.0
+  },
+  {
+    "code": "OMN",
+    "code2": "OM",
+    "codeNum": "512",
+    "name": "Oman",
+    "capital": "Muscat",
+    "region": "Asia",
+    "lat": 21.0,
+    "lng": 57.0
+  },
+  {
+    "code": "PAK",
+    "code2": "PK",
+    "codeNum": "586",
+    "name": "Pakistan",
+    "capital": "Islamabad",
+    "region": "Asia",
+    "lat": 30.0,
+    "lng": 70.0
+  },
+  {
+    "code": "PLW",
+    "code2": "PW",
+    "codeNum": "585",
+    "name": "Palau",
+    "capital": "Ngerulmud",
+    "region": "Oceania",
+    "lat": 7.5,
+    "lng": 134.5
+  },
+  {
+    "code": "PSE",
+    "code2": "PS",
+    "codeNum": "275",
+    "name": "Palestine",
+    "capital": "Ramallah",
+    "region": "Asia",
+    "lat": 31.9,
+    "lng": 35.2
+  },
+  {
+    "code": "PAN",
+    "code2": "PA",
+    "codeNum": "591",
+    "name": "Panama",
+    "capital": "Panama City",
+    "region": "Americas",
+    "lat": 9.0,
+    "lng": -80.0
+  },
+  {
+    "code": "PNG",
+    "code2": "PG",
+    "codeNum": "598",
+    "name": "Papua New Guinea",
+    "capital": "Port Moresby",
+    "region": "Oceania",
+    "lat": -6.0,
+    "lng": 147.0
+  },
+  {
+    "code": "PRY",
+    "code2": "PY",
+    "codeNum": "600",
+    "name": "Paraguay",
+    "capital": "Asunción",
+    "region": "Americas",
+    "lat": -23.0,
+    "lng": -58.0
+  },
+  {
+    "code": "PER",
+    "code2": "PE",
+    "codeNum": "604",
+    "name": "Peru",
+    "capital": "Lima",
+    "region": "Americas",
+    "lat": -10.0,
+    "lng": -76.0
+  },
+  {
+    "code": "PHL",
+    "code2": "PH",
+    "codeNum": "608",
+    "name": "Philippines",
+    "capital": "Manila",
+    "region": "Asia",
+    "lat": 13.0,
+    "lng": 122.0
+  },
+  {
+    "code": "PCN",
+    "code2": "PN",
+    "codeNum": "612",
+    "name": "Pitcairn Islands",
+    "capital": "Adamstown",
+    "region": "Oceania",
+    "lat": -25.06666666,
+    "lng": -130.1
+  },
+  {
+    "code": "POL",
+    "code2": "PL",
+    "codeNum": "616",
+    "name": "Poland",
+    "capital": "Warsaw",
+    "region": "Europe",
+    "lat": 52.0,
+    "lng": 20.0
+  },
+  {
+    "code": "PRT",
+    "code2": "PT",
+    "codeNum": "620",
+    "name": "Portugal",
+    "capital": "Lisbon",
+    "region": "Europe",
+    "lat": 39.5,
+    "lng": -8.0
+  },
+  {
+    "code": "PRI",
+    "code2": "PR",
+    "codeNum": "630",
+    "name": "Puerto Rico",
+    "capital": "San Juan",
+    "region": "Americas",
+    "lat": 18.25,
+    "lng": -66.5
+  },
+  {
+    "code": "QAT",
+    "code2": "QA",
+    "codeNum": "634",
+    "name": "Qatar",
+    "capital": "Doha",
+    "region": "Asia",
+    "lat": 25.5,
+    "lng": 51.25
+  },
+  {
+    "code": "COG",
+    "code2": "CG",
+    "codeNum": "178",
+    "name": "Republic of the Congo",
+    "capital": "Brazzaville",
+    "region": "Africa",
+    "lat": -1.0,
+    "lng": 15.0
+  },
+  {
+    "code": "ROU",
+    "code2": "RO",
+    "codeNum": "642",
+    "name": "Romania",
+    "capital": "Bucharest",
+    "region": "Europe",
+    "lat": 46.0,
+    "lng": 25.0
+  },
+  {
+    "code": "RUS",
+    "code2": "RU",
+    "codeNum": "643",
+    "name": "Russia",
+    "capital": "Moscow",
+    "region": "Europe",
+    "lat": 60.0,
+    "lng": 100.0
+  },
+  {
+    "code": "RWA",
+    "code2": "RW",
+    "codeNum": "646",
+    "name": "Rwanda",
+    "capital": "Kigali",
+    "region": "Africa",
+    "lat": -2.0,
+    "lng": 30.0
+  },
+  {
+    "code": "REU",
+    "code2": "RE",
+    "codeNum": "638",
+    "name": "Réunion",
+    "capital": "Saint-Denis",
+    "region": "Africa",
+    "lat": -21.15,
+    "lng": 55.5
+  },
+  {
+    "code": "BLM",
+    "code2": "BL",
+    "codeNum": "652",
+    "name": "Saint Barthélemy",
+    "capital": "Gustavia",
+    "region": "Americas",
+    "lat": 18.5,
+    "lng": -63.41666666
+  },
+  {
+    "code": "SHN",
+    "code2": "SH",
+    "codeNum": "654",
+    "name": "Saint Helena, Ascension and Tristan da Cunha",
+    "capital": "Jamestown",
+    "region": "Africa",
+    "lat": -15.95,
+    "lng": -5.72
+  },
+  {
+    "code": "KNA",
+    "code2": "KN",
+    "codeNum": "659",
+    "name": "Saint Kitts and Nevis",
+    "capital": "Basseterre",
+    "region": "Americas",
+    "lat": 17.33333333,
+    "lng": -62.75
+  },
+  {
+    "code": "LCA",
+    "code2": "LC",
+    "codeNum": "662",
+    "name": "Saint Lucia",
+    "capital": "Castries",
+    "region": "Americas",
+    "lat": 13.88333333,
+    "lng": -60.96666666
+  },
+  {
+    "code": "MAF",
+    "code2": "MF",
+    "codeNum": "663",
+    "name": "Saint Martin",
+    "capital": "Marigot",
+    "region": "Americas",
+    "lat": 18.0708,
+    "lng": -63.0501
+  },
+  {
+    "code": "SPM",
+    "code2": "PM",
+    "codeNum": "666",
+    "name": "Saint Pierre and Miquelon",
+    "capital": "Saint-Pierre",
+    "region": "Americas",
+    "lat": 46.83333333,
+    "lng": -56.33333333
+  },
+  {
+    "code": "VCT",
+    "code2": "VC",
+    "codeNum": "670",
+    "name": "Saint Vincent and the Grenadines",
+    "capital": "Kingstown",
+    "region": "Americas",
+    "lat": 13.25,
+    "lng": -61.2
+  },
+  {
+    "code": "WSM",
+    "code2": "WS",
+    "codeNum": "882",
+    "name": "Samoa",
+    "capital": "Apia",
+    "region": "Oceania",
+    "lat": -13.58333333,
+    "lng": -172.33333333
+  },
+  {
+    "code": "SMR",
+    "code2": "SM",
+    "codeNum": "674",
+    "name": "San Marino",
+    "capital": "City of San Marino",
+    "region": "Europe",
+    "lat": 43.76666666,
+    "lng": 12.41666666
+  },
+  {
+    "code": "SAU",
+    "code2": "SA",
+    "codeNum": "682",
+    "name": "Saudi Arabia",
+    "capital": "Riyadh",
+    "region": "Asia",
+    "lat": 25.0,
+    "lng": 45.0
+  },
+  {
+    "code": "SEN",
+    "code2": "SN",
+    "codeNum": "686",
+    "name": "Senegal",
+    "capital": "Dakar",
+    "region": "Africa",
+    "lat": 14.0,
+    "lng": -14.0
+  },
+  {
+    "code": "SRB",
+    "code2": "RS",
+    "codeNum": "688",
+    "name": "Serbia",
+    "capital": "Belgrade",
+    "region": "Europe",
+    "lat": 44.0,
+    "lng": 21.0
+  },
+  {
+    "code": "SYC",
+    "code2": "SC",
+    "codeNum": "690",
+    "name": "Seychelles",
+    "capital": "Victoria",
+    "region": "Africa",
+    "lat": -4.58333333,
+    "lng": 55.66666666
+  },
+  {
+    "code": "SLE",
+    "code2": "SL",
+    "codeNum": "694",
+    "name": "Sierra Leone",
+    "capital": "Freetown",
+    "region": "Africa",
+    "lat": 8.5,
+    "lng": -11.5
+  },
+  {
+    "code": "SGP",
+    "code2": "SG",
+    "codeNum": "702",
+    "name": "Singapore",
+    "capital": "Singapore",
+    "region": "Asia",
+    "lat": 1.36666666,
+    "lng": 103.8
+  },
+  {
+    "code": "SXM",
+    "code2": "SX",
+    "codeNum": "534",
+    "name": "Sint Maarten",
+    "capital": "Philipsburg",
+    "region": "Americas",
+    "lat": 18.033333,
+    "lng": -63.05
+  },
+  {
+    "code": "SVK",
+    "code2": "SK",
+    "codeNum": "703",
+    "name": "Slovakia",
+    "capital": "Bratislava",
+    "region": "Europe",
+    "lat": 48.66666666,
+    "lng": 19.5
+  },
+  {
+    "code": "SVN",
+    "code2": "SI",
+    "codeNum": "705",
+    "name": "Slovenia",
+    "capital": "Ljubljana",
+    "region": "Europe",
+    "lat": 46.11666666,
+    "lng": 14.81666666
+  },
+  {
+    "code": "SLB",
+    "code2": "SB",
+    "codeNum": "090",
+    "name": "Solomon Islands",
+    "capital": "Honiara",
+    "region": "Oceania",
+    "lat": -8.0,
+    "lng": 159.0
+  },
+  {
+    "code": "SOM",
+    "code2": "SO",
+    "codeNum": "706",
+    "name": "Somalia",
+    "capital": "Mogadishu",
+    "region": "Africa",
+    "lat": 10.0,
+    "lng": 49.0
+  },
+  {
+    "code": "ZAF",
+    "code2": "ZA",
+    "codeNum": "710",
+    "name": "South Africa",
+    "capital": "Pretoria",
+    "region": "Africa",
+    "lat": -29.0,
+    "lng": 24.0
+  },
+  {
+    "code": "SGS",
+    "code2": "GS",
+    "codeNum": "239",
+    "name": "South Georgia",
+    "capital": "King Edward Point",
+    "region": "Antarctic",
+    "lat": -54.5,
+    "lng": -37.0
+  },
+  {
+    "code": "KOR",
+    "code2": "KR",
+    "codeNum": "410",
+    "name": "South Korea",
+    "capital": "Seoul",
+    "region": "Asia",
+    "lat": 37.0,
+    "lng": 127.5
+  },
+  {
+    "code": "SSD",
+    "code2": "SS",
+    "codeNum": "728",
+    "name": "South Sudan",
+    "capital": "Juba",
+    "region": "Africa",
+    "lat": 7.0,
+    "lng": 30.0
+  },
+  {
+    "code": "ESP",
+    "code2": "ES",
+    "codeNum": "724",
+    "name": "Spain",
+    "capital": "Madrid",
+    "region": "Europe",
+    "lat": 40.0,
+    "lng": -4.0
+  },
+  {
+    "code": "LKA",
+    "code2": "LK",
+    "codeNum": "144",
+    "name": "Sri Lanka",
+    "capital": "Sri Jayawardenepura Kotte",
+    "region": "Asia",
+    "lat": 7.0,
+    "lng": 81.0
+  },
+  {
+    "code": "SDN",
+    "code2": "SD",
+    "codeNum": "729",
+    "name": "Sudan",
+    "capital": "Khartoum",
+    "region": "Africa",
+    "lat": 15.0,
+    "lng": 30.0
+  },
+  {
+    "code": "SUR",
+    "code2": "SR",
+    "codeNum": "740",
+    "name": "Suriname",
+    "capital": "Paramaribo",
+    "region": "Americas",
+    "lat": 4.0,
+    "lng": -56.0
+  },
+  {
+    "code": "SJM",
+    "code2": "SJ",
+    "codeNum": "744",
+    "name": "Svalbard and Jan Mayen",
+    "capital": "Longyearbyen",
+    "region": "Europe",
+    "lat": 78.0,
+    "lng": 20.0
+  },
+  {
+    "code": "SWE",
+    "code2": "SE",
+    "codeNum": "752",
+    "name": "Sweden",
+    "capital": "Stockholm",
+    "region": "Europe",
+    "lat": 62.0,
+    "lng": 15.0
+  },
+  {
+    "code": "CHE",
+    "code2": "CH",
+    "codeNum": "756",
+    "name": "Switzerland",
+    "capital": "Bern",
+    "region": "Europe",
+    "lat": 47.0,
+    "lng": 8.0
+  },
+  {
+    "code": "SYR",
+    "code2": "SY",
+    "codeNum": "760",
+    "name": "Syria",
+    "capital": "Damascus",
+    "region": "Asia",
+    "lat": 35.0,
+    "lng": 38.0
+  },
+  {
+    "code": "STP",
+    "code2": "ST",
+    "codeNum": "678",
+    "name": "São Tomé and Príncipe",
+    "capital": "São Tomé",
+    "region": "Africa",
+    "lat": 1.0,
+    "lng": 7.0
+  },
+  {
+    "code": "TWN",
+    "code2": "TW",
+    "codeNum": "158",
+    "name": "Taiwan",
+    "capital": "Taipei",
+    "region": "Asia",
+    "lat": 23.5,
+    "lng": 121.0
+  },
+  {
+    "code": "TJK",
+    "code2": "TJ",
+    "codeNum": "762",
+    "name": "Tajikistan",
+    "capital": "Dushanbe",
+    "region": "Asia",
+    "lat": 39.0,
+    "lng": 71.0
+  },
+  {
+    "code": "TZA",
+    "code2": "TZ",
+    "codeNum": "834",
+    "name": "Tanzania",
+    "capital": "Dodoma",
+    "region": "Africa",
+    "lat": -6.0,
+    "lng": 35.0
+  },
+  {
+    "code": "THA",
+    "code2": "TH",
+    "codeNum": "764",
+    "name": "Thailand",
+    "capital": "Bangkok",
+    "region": "Asia",
+    "lat": 15.0,
+    "lng": 100.0
+  },
+  {
+    "code": "TLS",
+    "code2": "TL",
+    "codeNum": "626",
+    "name": "Timor-Leste",
+    "capital": "Dili",
+    "region": "Asia",
+    "lat": -8.83333333,
+    "lng": 125.91666666
+  },
+  {
+    "code": "TGO",
+    "code2": "TG",
+    "codeNum": "768",
+    "name": "Togo",
+    "capital": "Lomé",
+    "region": "Africa",
+    "lat": 8.0,
+    "lng": 1.16666666
+  },
+  {
+    "code": "TKL",
+    "code2": "TK",
+    "codeNum": "772",
+    "name": "Tokelau",
+    "capital": "Fakaofo",
+    "region": "Oceania",
+    "lat": -9.0,
+    "lng": -172.0
+  },
+  {
+    "code": "TON",
+    "code2": "TO",
+    "codeNum": "776",
+    "name": "Tonga",
+    "capital": "Nuku'alofa",
+    "region": "Oceania",
+    "lat": -20.0,
+    "lng": -175.0
+  },
+  {
+    "code": "TTO",
+    "code2": "TT",
+    "codeNum": "780",
+    "name": "Trinidad and Tobago",
+    "capital": "Port of Spain",
+    "region": "Americas",
+    "lat": 10.6918,
+    "lng": -61.2225
+  },
+  {
+    "code": "TUN",
+    "code2": "TN",
+    "codeNum": "788",
+    "name": "Tunisia",
+    "capital": "Tunis",
+    "region": "Africa",
+    "lat": 34.0,
+    "lng": 9.0
+  },
+  {
+    "code": "TUR",
+    "code2": "TR",
+    "codeNum": "792",
+    "name": "Turkey",
+    "capital": "Ankara",
+    "region": "Asia",
+    "lat": 39.0,
+    "lng": 35.0
+  },
+  {
+    "code": "TKM",
+    "code2": "TM",
+    "codeNum": "795",
+    "name": "Turkmenistan",
+    "capital": "Ashgabat",
+    "region": "Asia",
+    "lat": 40.0,
+    "lng": 60.0
+  },
+  {
+    "code": "TCA",
+    "code2": "TC",
+    "codeNum": "796",
+    "name": "Turks and Caicos Islands",
+    "capital": "Cockburn Town",
+    "region": "Americas",
+    "lat": 21.75,
+    "lng": -71.58333333
+  },
+  {
+    "code": "TUV",
+    "code2": "TV",
+    "codeNum": "798",
+    "name": "Tuvalu",
+    "capital": "Funafuti",
+    "region": "Oceania",
+    "lat": -8.0,
+    "lng": 178.0
+  },
+  {
+    "code": "UGA",
+    "code2": "UG",
+    "codeNum": "800",
+    "name": "Uganda",
+    "capital": "Kampala",
+    "region": "Africa",
+    "lat": 1.0,
+    "lng": 32.0
+  },
+  {
+    "code": "UKR",
+    "code2": "UA",
+    "codeNum": "804",
+    "name": "Ukraine",
+    "capital": "Kyiv",
+    "region": "Europe",
+    "lat": 49.0,
+    "lng": 32.0
+  },
+  {
+    "code": "ARE",
+    "code2": "AE",
+    "codeNum": "784",
+    "name": "United Arab Emirates",
+    "capital": "Abu Dhabi",
+    "region": "Asia",
+    "lat": 24.0,
+    "lng": 54.0
+  },
+  {
+    "code": "GBR",
+    "code2": "GB",
+    "codeNum": "826",
+    "name": "United Kingdom",
+    "capital": "London",
+    "region": "Europe",
+    "lat": 54.0,
+    "lng": -2.0
+  },
+  {
+    "code": "USA",
+    "code2": "US",
+    "codeNum": "840",
+    "name": "United States",
+    "capital": "Washington, D.C.",
+    "region": "Americas",
+    "lat": 38.0,
+    "lng": -97.0
+  },
+  {
+    "code": "UMI",
+    "code2": "UM",
+    "codeNum": "581",
+    "name": "United States Minor Outlying Islands",
+    "capital": "Washington DC",
+    "region": "Americas",
+    "lat": 19.3,
+    "lng": 166.633333
+  },
+  {
+    "code": "VIR",
+    "code2": "VI",
+    "codeNum": "850",
+    "name": "United States Virgin Islands",
+    "capital": "Charlotte Amalie",
+    "region": "Americas",
+    "lat": 18.35,
+    "lng": -64.933333
+  },
+  {
+    "code": "URY",
+    "code2": "UY",
+    "codeNum": "858",
+    "name": "Uruguay",
+    "capital": "Montevideo",
+    "region": "Americas",
+    "lat": -33.0,
+    "lng": -56.0
+  },
+  {
+    "code": "UZB",
+    "code2": "UZ",
+    "codeNum": "860",
+    "name": "Uzbekistan",
+    "capital": "Tashkent",
+    "region": "Asia",
+    "lat": 41.0,
+    "lng": 64.0
+  },
+  {
+    "code": "VUT",
+    "code2": "VU",
+    "codeNum": "548",
+    "name": "Vanuatu",
+    "capital": "Port Vila",
+    "region": "Oceania",
+    "lat": -16.0,
+    "lng": 167.0
+  },
+  {
+    "code": "VAT",
+    "code2": "VA",
+    "codeNum": "336",
+    "name": "Vatican City",
+    "capital": "Vatican City",
+    "region": "Europe",
+    "lat": 41.9,
+    "lng": 12.45
+  },
+  {
+    "code": "VEN",
+    "code2": "VE",
+    "codeNum": "862",
+    "name": "Venezuela",
+    "capital": "Caracas",
+    "region": "Americas",
+    "lat": 8.0,
+    "lng": -66.0
+  },
+  {
+    "code": "VNM",
+    "code2": "VN",
+    "codeNum": "704",
+    "name": "Vietnam",
+    "capital": "Hanoi",
+    "region": "Asia",
+    "lat": 16.16666666,
+    "lng": 107.83333333
+  },
+  {
+    "code": "WLF",
+    "code2": "WF",
+    "codeNum": "876",
+    "name": "Wallis and Futuna",
+    "capital": "Mata-Utu",
+    "region": "Oceania",
+    "lat": -13.3,
+    "lng": -176.2
+  },
+  {
+    "code": "ESH",
+    "code2": "EH",
+    "codeNum": "732",
+    "name": "Western Sahara",
+    "capital": "El Aaiún",
+    "region": "Africa",
+    "lat": 24.5,
+    "lng": -13.0
+  },
+  {
+    "code": "YEM",
+    "code2": "YE",
+    "codeNum": "887",
+    "name": "Yemen",
+    "capital": "Sana'a",
+    "region": "Asia",
+    "lat": 15.0,
+    "lng": 48.0
+  },
+  {
+    "code": "ZMB",
+    "code2": "ZM",
+    "codeNum": "894",
+    "name": "Zambia",
+    "capital": "Lusaka",
+    "region": "Africa",
+    "lat": -15.0,
+    "lng": 30.0
+  },
+  {
+    "code": "ZWE",
+    "code2": "ZW",
+    "codeNum": "716",
+    "name": "Zimbabwe",
+    "capital": "Harare",
+    "region": "Africa",
+    "lat": -20.0,
+    "lng": 30.0
+  },
+  {
+    "code": "ALA",
+    "code2": "AX",
+    "codeNum": "248",
+    "name": "Åland Islands",
+    "capital": "Mariehamn",
+    "region": "Europe",
+    "lat": 60.116667,
+    "lng": 19.9
+  }
+]
